@@ -1,6 +1,4 @@
 # Flex-Fitness-Gym-Management-System
-Y2_S2_wd_it_01-itp_wd_b04_g10
-
 Project Name - “Flex Fitness” – Gym Management Application
 
 ![Screenshot (561)](https://github.com/Rehantp/Flex-Fitness-Gym-Management-System/assets/95935466/22b94e9b-5949-4320-98a3-ba1db827d436)
